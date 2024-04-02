@@ -1,7 +1,8 @@
 import "./App.css";
+import Board from "./Board";
 
 function App() {
-  return <div>TIC TAC TOE </div>;
+  return <Board />;
 }
 
 export default App;
